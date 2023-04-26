@@ -16,4 +16,4 @@ bin/
  vendor/
 
  # default config file for development
- .config.yaml
+ /.config.yaml
