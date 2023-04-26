@@ -4,6 +4,9 @@ root = true
 end_of_line = lf
 insert_final_newline = true
 trim_trailing_whitespace = true
+ij_wrap_on_typing = true
+ij_any_wrap_comments = true
+ij_any_wrap_long_lines = true
 
 [*.{yaml,yml}]
 indent_style = space
@@ -21,3 +24,4 @@ max_line_length = 80
 
 [*.go]
 max_line_length = 120
+ij_go_add_leading_space_to_comments = true
